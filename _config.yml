@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              CJ Blog
+email:              sene.5s9horizons@gmail.com
+description:        I wonder how far I can think before losing myself into the absoluteness of infinity
+author:             pSeudo man
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://5s9horizons.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   5s9horizons
+github_username:    5s9horizons
+facebook_username:  5s9horizons
 instagram_username:  
 linkedin_username:
 
